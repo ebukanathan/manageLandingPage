@@ -1,0 +1,24 @@
+{
+  "testmonials": [
+    {
+      "pic": "images/avatar-richard.png",
+      "name": "Richard Watts",
+      "opinion": "Manage allows us to provide structure and process. It keeps us organized and focused. I can’t stop recommending them to everyone I talk to!"
+    },
+    {
+      "pic": "images/avatar-shanai.png",
+      "name": "Shanai Gough",
+      "opinion": "heir software allows us to track, manage and collaborate on our projects from anywhere. It keeps the whole team in-sync without being intrusive."
+    },
+    {
+      "pic": "images/avatar-ali.png",
+      "name": "Bravo Ali",
+      "opinion": "We have been able to cancel so many other subscriptions since using Manage. There is no more cross-channel confusion and everyone is much more focused."
+    },
+    {
+      "pic": "images/avatar-anisha.png",
+      "name": "Anisha Li",
+      "opinion": "Manage has supercharged our team’s workflow. The ability to maintain visibility on larger milestones at all times keeps everyone motivated."
+    }
+  ]
+}
